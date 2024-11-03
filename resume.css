@@ -1,0 +1,17 @@
+.profile-photo {
+  height: 150px;
+  border-radius: 50%;
+}
+
+.job-title, .edu-title {
+  font-size: large;
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 3px;
+}
+
+.job-duration, .edu-duration {
+  font-size: small;
+  color: gray;
+  margin-top: 0px;
+}
